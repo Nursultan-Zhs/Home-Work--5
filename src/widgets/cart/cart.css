@@ -1,0 +1,256 @@
+.TTT{
+    font-family: "Integral CF Regular";
+     margin-left: 55px;
+}
+
+.mainCart{
+    width: 715px;
+    height: 508px;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: 30px;
+    border: 1px solid #0000001A ;
+    border-radius: 20px;
+
+}
+
+.WWW hr{
+    position: relative;
+    top: -160px;
+    width: 660px;
+    margin-left: 25px;
+    border: 1px solid #0000001A;
+}
+
+.imgCart{
+    margin-top: 25px;
+    margin-left: 25px;
+    border-radius: 10px ;
+}
+
+.WWW h3{
+    position: relative;
+    margin-left: 170px;
+    top: -125px;
+}
+
+.WWW p{
+    position: relative;
+    margin-left: 170px;
+    top: -120px;
+}
+
+.WWW .AWA{
+    position: relative;
+    margin-left: 170px;
+    top: -117px;
+}
+
+.imgCart2{
+    position: relative;
+    margin-left: 670px;
+    top: -240px;
+}
+
+.III{
+   position: relative;
+   margin-left: 168px;
+   top: -110px;
+}
+
+.One{
+    position: relative;
+    margin-left: 570px;
+    top: -180px;
+    width: 120px;
+    height: 44px;
+    background-color: #F0F0F0;
+    text-align: center;
+    border-radius: 62px;
+}
+
+
+
+
+
+.WWW2 .Hr{
+position: relative;
+top: -295px;
+width: 660px;
+margin-left: 25px;
+border: 1px solid #0000001A;
+}
+
+.imgCart3{
+    position: relative;
+    top: -135px;
+margin-top: 0px;
+margin-left: 25px;
+border-radius: 10px ;
+}
+
+.WWW2 h3{
+position: relative;
+margin-left: 170px;
+top: -260px;
+}
+
+.WWW2 p{
+position: relative;
+margin-left: 170px;
+top: -256px;
+}
+
+.WWW2 .AWA2{
+position: relative;
+margin-left: 170px;
+top: -253px;
+}
+
+.imgCart4{
+position: relative;
+margin-left: 670px;
+top: -370px;
+}
+
+.III2{
+position: relative;
+margin-left: 168px;
+top: -246px;
+}
+
+.Two{
+position: relative;
+margin-left: 570px;
+top: -315px;
+width: 120px;
+height: 44px;
+background-color: #F0F0F0;
+text-align: center;
+border-radius: 62px;
+}
+
+
+
+
+.imgCart5{
+position: relative;
+top: -280px;
+margin-top: 0px;
+margin-left: 35px;
+border-radius: 10px ;
+
+}
+
+.WWW3 h3{
+position: relative;
+margin-left: 170px;
+top: -400px;
+}
+
+.WWW3 p{
+position: relative;
+margin-left: 170px;
+top: -395px;
+}
+
+.WWW3 .AWA3{
+position: relative;
+margin-left: 170px;
+top: -391px;
+}
+
+.imgCart6{
+position: relative;
+margin-left: 670px;
+top: -512px;
+}
+
+.III3{
+position: relative;
+margin-left: 168px;
+top: -390px;
+}
+
+.Three{
+position: relative;
+margin-left: 570px;
+top: -473px;
+width: 120px;
+height: 44px;
+background-color: #F0F0F0;
+text-align: center;
+border-radius: 62px;
+}
+
+
+.order{
+     position: relative;
+    width: 505px;
+    height: 458px;
+    border: 1px solid #0000001A ;
+    margin-left: 800px;
+    top: -507px;
+    border-radius: 20px;
+}
+
+
+.order1{
+    position: relative;
+    margin-top: 13px;
+    margin-left: 20px;
+}
+
+
+.del{
+    position: relative;
+    margin-top: 26px;
+    margin-left: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dis{
+    position: relative;
+    margin-top: 23px;
+    margin-left: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sub{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+.five{
+    position: relative;
+    top: -115px;
+    margin-left: 450px;
+    
+}
+
+
+.live{
+    position: relative;
+    top: -89px;
+    margin-left: 450px;
+}
+
+
+.kife{
+    position: relative;
+    top: -65px;
+    margin-left: 462px;
+}
+
+
+.line{
+    border: 1px solid #0000001A;
+    width: 459px;
+    margin-left: 23px;
+    position: relative;
+    top: -35px;
+}
